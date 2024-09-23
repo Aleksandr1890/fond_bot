@@ -6,9 +6,9 @@ LEXICON: dict[str, str] = {
 
 LEXICON_COMMANDS: dict[str, str] = {
     '/start': 'Перезапустить бота',
-    '/register': 'Создать личный кабинет',
-    '/account': 'Войти в личный кабинет',
-    '/help': 'Справка по работе бота'
+    #'/register': 'Создать личный кабинет',
+    #'/account': 'Войти в личный кабинет',
+    #'/help': 'Справка по работе бота'
 }
 
 LEXICON_KB_SERVICES: dict[str, str] = {

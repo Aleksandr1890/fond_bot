@@ -11,4 +11,4 @@ GYOUNG_LINK='https://gatchina.813.ru/podderzhka-biznesa/subsidii-dlya-biznesa/su
 GSOCIAL_LINK='https://gatchina.813.ru/podderzhka-biznesa/subsidii-dlya-biznesa/subsidii-ot-administratsii-gatchinskogo-munitsipalnogo-okruga-v-2024-godu/subsidii-dlya-sotsialnykh-predprinimateley/'
 CRAFTS_LINK='https://gatchina.813.ru/podderzhka-biznesa/subsidii-dlya-biznesa/subsidii-ot-administratsii-gatchinskogo-munitsipalnogo-okruga-v-2024-godu/subsidiya-dlya-predprinimateley-zanyatykh-v-sfere-narodnykh-khudozhestvennykh-promyslov-i-remesel/'
 NPD_LINK='https://gatchina.813.ru/podderzhka-biznesa/subsidii-dlya-biznesa/subsidii-ot-administratsii-gatchinskogo-munitsipalnogo-okruga-v-2024-godu/subsidii-dlya-ip-na-npd-samozanyatosti/'
-SOON='Прием документов приостановлен. Продолжится в 2025 году.'
+SOON='<b>Прием документов приостановлен. Продолжится в 2025 году.</b>'

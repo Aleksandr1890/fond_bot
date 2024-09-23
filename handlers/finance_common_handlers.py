@@ -9,6 +9,6 @@ router: Router = Router()
 @router.callback_query(F.data == 'finance')
 async def process_finance_press(callback: CallbackQuery):
     await callback.message.edit_text(
-        text='Выбери поддержку:',
+        text='Выберите поддержку:',
         reply_markup=ikb_subsidies
     )
