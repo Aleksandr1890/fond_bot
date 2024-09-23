@@ -5,6 +5,7 @@ from data_for_change.active_finance import (
     CERTIFICATE_LINK
 )
 
+
 ACTIVE: dict[int, str] = {
     1: '<b>Приобретение оборудования для развития производства</b>\n\n'
         '<b><i>Кто может получить:</i></b>\n'
